@@ -2,3 +2,15 @@ Soru: Büyük bütçeli filmler her zaman daha mı çok kâr elde ediyor?
 
 Cevap: Hayır. Veri kümesindeki 47 dev bütçeli filmden 1 tanesi zarar etmiştir.
 En somut örnek: The Lone Ranger (-165,710,090$ zarar).
+
+============================================================
+Soru: Film rating'lerinin yüksek olması gişe başarısını nasıl etkiliyor?
+
+Gruplara Göre Ortalama Hasılat Verileri:
+- Düşük (0-5) filmlerin ortalama hasılatı: 40,869,461$
+- Orta (5-7) filmlerin ortalama hasılatı: 108,391,339$
+- Yüksek (7-10) filmlerin ortalama hasılatı: 162,107,173$
+
+Genel Değerlendirme:
+Veriler incelendiğinde, rating puanı arttıkça ortalama hasılatın da yükselme eğiliminde olduğu görülmektedir.
+Bu durum, yüksek izleyici/eleştirmen puanının gişe performansına pozitif bir ivme kattığını doğrulamaktadır.

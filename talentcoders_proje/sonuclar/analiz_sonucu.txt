@@ -1,0 +1,4 @@
+Soru: Büyük bütçeli filmler her zaman daha mı çok kâr elde ediyor?
+
+Cevap: Hayır. Veri kümesindeki 47 dev bütçeli filmden 1 tanesi zarar etmiştir.
+En somut örnek: The Lone Ranger (-165,710,090$ zarar).

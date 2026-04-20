@@ -14,3 +14,23 @@ Gruplara Göre Ortalama Hasılat Verileri:
 Genel Değerlendirme:
 Veriler incelendiğinde, rating puanı arttıkça ortalama hasılatın da yükselme eğiliminde olduğu görülmektedir.
 Bu durum, yüksek izleyici/eleştirmen puanının gişe performansına pozitif bir ivme kattığını doğrulamaktadır.
+
+============================================================
+Film Türü ve Gişe Başarısı İlişkisi
+Soru: Filmin türü gişe başarısını nasıl etkiliyor?
+
+Türlere Göre Ortalama Hasılat (İlk 10):
+- Animation: 276,503,497$
+- Adventure: 244,209,721$
+- Fantasy: 233,567,521$
+- Family: 218,018,949$
+- Science Fiction: 185,795,526$
+- Action: 173,361,611$
+- Thriller: 107,664,678$
+- Comedy: 104,566,029$
+- Mystery: 101,674,339$
+- War: 99,331,524$
+
+Genel Değerlendirme:
+Analiz sonuçları, belirli türlerin (Örn: Macera, Animasyon, Bilim Kurgu) genellikle daha yüksek ortalama hasılat elde ettiğini göstermektedir.
+Bunun temel nedeni, bu türlerin geniş kitlelere hitap etmesi ve yüksek pazarlama bütçelerine sahip olmasıdır.

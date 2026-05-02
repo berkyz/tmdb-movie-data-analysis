@@ -38,3 +38,14 @@ Bunun temel nedeni, bu türlerin geniş kitlelere hitap etmesi ve yüksek pazarl
 
 === GENEL İSTATİSTİKLER VE DETAYLI ANALİZLER ===
 
+
+
+=== GENEL İSTATİSTİKLER VE DETAYLI ANALİZLER ===
+
+En çok hasılat yapan yönetmen: Steven Spielberg - Toplam Hasılat: 9147393164
+En çok hasılat yapan oyuncu: Stan Lee - Toplam Hasılat: 17364063582
+Yıllık trend analizleri (Ortalama Hasılat ve Film Sayısı) grafikleri kaydedildi.
+Ortalama olarak en çok hasılat getiren ay: Haziran
+Film metrikleri (Bütçe, Hasılat, Popülerlik, Süre, Puan, Oy) arasındaki korelasyon hesaplandı ve ısı haritası kaydedildi.
+Film süresi ve ortalama puan ilişkisini gösteren saçılım grafiği (scatter plot) kaydedildi.
+En çok hasılat elde eden prodüksiyon şirketi: Warner Bros. - Toplam Hasılat: 49155747874

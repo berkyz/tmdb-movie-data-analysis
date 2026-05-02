@@ -34,3 +34,7 @@ Türlere Göre Ortalama Hasılat (İlk 10):
 Genel Değerlendirme:
 Analiz sonuçları, belirli türlerin (Örn: Macera, Animasyon, Bilim Kurgu) genellikle daha yüksek ortalama hasılat elde ettiğini göstermektedir.
 Bunun temel nedeni, bu türlerin geniş kitlelere hitap etmesi ve yüksek pazarlama bütçelerine sahip olmasıdır.
+
+
+=== GENEL İSTATİSTİKLER VE DETAYLI ANALİZLER ===
+

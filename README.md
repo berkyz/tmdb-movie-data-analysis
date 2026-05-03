@@ -21,7 +21,7 @@ Ham veri **~5.000 film** kaydı içermekte olup SQL Server ortamında (`TMDB_Mov
 ## 🗂️ Proje Yapısı
 
 ```
-talentcoders/
+tmdb-movie-data-analysis/
 │
 ├── tmdb_analysis_mssql/
 │   ├── script.sql                              # SQL sorgular ve tablo tanımları

@@ -203,15 +203,6 @@ Sırayla çalıştırılması önerilen notebook'lar:
 4. `TMDB_MovieDB_Film_tur_gise_basarisi.ipynb`
 5. `model/xgboost_modeli.ipynb`
 
-### Sunumu Yeniden Oluşturma
-
-```bash
-python create_presentation.py
-```
-
-Çıktı: `Sunum_TMDB_Hasilat_Tahmin_v3.pptx`
-
----
 
 ## 🧰 Teknik Altyapı
 

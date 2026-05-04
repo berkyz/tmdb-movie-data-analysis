@@ -71,7 +71,6 @@ seaborn
 sqlalchemy
 pyodbc
 jupyter
-python-pptx
 ```
 
 ### Veritabanı Kurulumu

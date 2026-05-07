@@ -94,7 +94,6 @@ xgboost==3.2.0
 | Adım | Yöntem |
 |------|--------|
 | Eksik veri | NULL ve sıfır bütçeli kayıtlar çıkarıldı |
-| Sayısal ölçekleme | `StandardScaler` (bütçe, hasılat, süre, puan, oy sayısı) |
 | Kategorik kodlama | `LabelEncoder` — yönetmen, başrol oyuncu |
 | Tür kodlama | `TargetEncoder` — genre sütunları |
 | Hedef değişken | Ham hasılat (`revenue`), log-transform uygulanmadı |
